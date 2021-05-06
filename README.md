@@ -1,4 +1,4 @@
-# Assignment 2 - Movie Browser
+# Movie Browser
 
 This movie browser allows users to search a key term that will return a list of movies, if there are any movies with said keyword.
 
